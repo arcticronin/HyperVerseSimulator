@@ -7,9 +7,13 @@ Uses Julia and Pluto.
 In a shell, install julia and:
 
 julia 
+
 using Pkg 
+
 Pkg.add(Pluto) 
+
 using Pluto 
+
 Pluto.run()
 
 
