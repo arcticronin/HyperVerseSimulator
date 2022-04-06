@@ -1,8 +1,15 @@
-
 Simulator, written in Julia, to use if you ever think that you wanna partecipate some Crypto-ish Ponzi Scheme (Ex. HyperVerse, HyperFound).
 
-Use Julia and Pluto.
+See the PDF for a quick view.
 
-julia using Pkg Pkg.add(Pluto) using Pluto Pluto.run()
+Uses Julia and Pluto.
+
+In a shell, install julia and:
+
+julia 
+using Pkg 
+Pkg.add(Pluto) 
+using Pluto 
+Pluto.run()
 
 
