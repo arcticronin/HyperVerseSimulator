@@ -4,16 +4,14 @@ See the PDF for a quick view.
 
 Uses Julia and Pluto.
 
-In a shell, install julia and:
+In a Julia shell:
 
-julia 
-
-using Pkg 
-
+ 
+<pre><code>
+using Pkg
 Pkg.add(Pluto) 
-
 using Pluto 
-
 Pluto.run()
+</code></pre>
 
 
